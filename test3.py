@@ -1,0 +1,1 @@
+#esta son unas lineas cometadas en la parte princiapl del archivo 
